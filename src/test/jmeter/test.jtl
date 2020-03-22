@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1584780030520,1852,HTTP Request,200,OK,Thread Group 1-1,text,false,"Test failed: text expected to contain /title=""百度搜索“af/",2559,118,1,1,https://www.baidu.com/,1846,0,1642
