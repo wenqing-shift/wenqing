@@ -7,9 +7,11 @@
 <title>登陆界面</title>
 </head>
 <body>
+
+<h1>第一次测试</h1>
 	<form action="dologin.jsp" method="post">
 		用户名：<input type="text" name="username"><br>
-		密码：<input type="password" name="password"><br>
+		密     码：<input type="password" name="password"><br>
 		<input type="submit" value="提交">
 	</form>
 </body>
